@@ -20,7 +20,7 @@ WindowFrame->Normal*)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["Verification of the manuscript QCLT, version 21", "Title",ExpressionUUID->"e37895fb-be6a-435a-b13a-38063c886f2a"],
+Cell["Verification of the manuscript QCLT, version 29", "Title",ExpressionUUID->"e37895fb-be6a-435a-b13a-38063c886f2a"],
 
 Cell["\<\
 A feedback-driven central limit theorem with q-Gaussian limits: checks of the \
